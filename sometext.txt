@@ -1,1 +1,4 @@
 Hello
+1. create a venv
+2. install the dependencies
+3. Run the tests
